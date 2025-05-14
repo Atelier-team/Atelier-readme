@@ -127,7 +127,7 @@
 ├── uploads/
 
 ```
-### 📁 Backend
+### 📁 Frontend
 
 ```bash
 📁 src/
