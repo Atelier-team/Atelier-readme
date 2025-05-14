@@ -2,10 +2,21 @@
   <h1>🎨 Atelier</h1>
   <p>작가와 감상자가 연결되는, 예술 기반 전시 & 커머스 플랫폼</p>
 
-  <img src="https://img.shields.io/badge/React-2025-blue?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/SpringBoot-Java-green?style=flat-square&logo=springboot" />
-  <img src="https://img.shields.io/badge/AWS-Infra-orange?style=flat-square&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/MySQL-DB-blue?style=flat-square&logo=mysql" />
+  <!-- 🎖 배지 라인 삽입 -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-2025-blue?style=flat-square&logo=react" />
+    <img src="https://img.shields.io/badge/Zustand-State&nbsp;Management-yellow?style=flat-square" />
+    <img src="https://img.shields.io/badge/Styled--components-CSS--in--JS-ff69b4?style=flat-square" />
+    <img src="https://img.shields.io/badge/WebSocket-RealTime-red?style=flat-square" />
+    <img src="https://img.shields.io/badge/SpringBoot-API-green?style=flat-square&logo=springboot" />
+    <img src="https://img.shields.io/badge/JWT-Authentication-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/MySQL-Relational&nbsp;DB-blue?style=flat-square&logo=mysql" />
+    <img src="https://img.shields.io/badge/AWS-EC2/S3-orange?style=flat-square&logo=amazonaws" />
+    <img src="https://img.shields.io/badge/Nginx-ReverseProxy-darkgreen?style=flat-square&logo=nginx" />
+    <img src="https://img.shields.io/badge/GitHubActions-CI/CD-blue?style=flat-square&logo=githubactions" />
+    <img src="https://img.shields.io/badge/HuggingFace-AI&nbsp;추천-yellow?style=flat-square&logo=huggingface" />
+    <img src="https://img.shields.io/badge/OpenWeather-API-4db8ff?style=flat-square" />
+  </p>
 </div>
 
 ---
